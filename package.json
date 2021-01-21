@@ -14,7 +14,7 @@
     "crypto-js": "^3.1.9-1",
     "express": "^4.16.4",
     "moment": "^2.22.2",
-    "socket.io": "^2.1.1"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "expect": "^23.6.0",
